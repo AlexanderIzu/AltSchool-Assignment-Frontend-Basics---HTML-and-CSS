@@ -12,7 +12,7 @@ body {
     color: #020202;
     background-color: #fdfdfdac;
     font-weight: 500;
-
+}
 header {
     background: url('../assets/images/header.png') no-repeat center center/cover;
     padding: 20px 0;
