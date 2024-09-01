@@ -29,15 +29,11 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
     padding: 5px 10px;
 }
 
-nav ul li a:hover {
-    background: #2cb72c97;
-    border-radius: 3px;
-}
 
 main {
     padding: 20px;
