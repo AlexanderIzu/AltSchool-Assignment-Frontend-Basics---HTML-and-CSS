@@ -5,7 +5,6 @@ body {
     background-color: #f5f5f5;
 }
 
-/* Header styling */
 header {
     display: flex;
     align-items: center;
@@ -76,11 +75,7 @@ tr.group3 {
     background-color: #e0e0e0;
 }
 
-/* Hover effect for table cells */
-td:hover {
-    background-color: #6c757d;
-    color: white;
-}
+
 
 /* Navigation menu styling */
 nav {
@@ -114,7 +109,7 @@ nav a:hover {
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .AltSchool-logo img {
-        width: 80px; /* Smaller logo for tablets */
+        width: 80px;
     }
     
     .table-container {
