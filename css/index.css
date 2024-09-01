@@ -115,10 +115,6 @@ ol {
     transition: color 0.3s;
 }
 
-.back-to-top a:hover {
-    color: #ce0b0b;
-}
-
 footer {
     padding: 10px 20px 40px;
     text-align: center;
